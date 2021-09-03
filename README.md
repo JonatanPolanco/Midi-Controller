@@ -12,4 +12,5 @@ Arduino nano controller for Helix Native plug-in
 - Caja metálica (Pueden diseñarla y hacerla ustedes mismos, mandarla a hacer o comprar una ya hecha, lo importante es que quede comoda al pisar cada botón)
 - Baquelita pcb perforada: https://www.amazon.com/-/es/prototipo-soldadura-bricolaje-circuito-experimental/dp/B00FXHXT80/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=24GFYQ3OU8WEJ&dchild=1&keywords=bakelite+pcb&qid=1630651981&sprefix=baquel%2Caps%2C263&sr=8-2
 - Jumpers macho-macho para hacer las conexiones: https://www.amazon.com/-/es/cables-multicolor-alambre-tableros-arruinar/dp/B01EV47GI4/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=male%2Bjumpers&qid=1630652544&sr=8-1&th=1
-- 1 Led para cáda pulsador que vayan a poner en su controlador
+- Diodos led's para indicar encendido/apagado (1 por cáda preset que quieran asignar. Y del color que quieran): https://www.amazon.com/-/es/circuito-experimentos-proyectos-cient%C3%ADficos-multicolor/dp/B07PG84V17/ref=sr_1_3?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2GCDSQOHYH4LU&dchild=1&keywords=led+diodes&qid=1630653557&sprefix=leds+diod%2Caps%2C217&sr=8-3
+- 
