@@ -5,6 +5,10 @@ Arduino nano controller for Helix Native plug-in
 - Line 6 Helix Native (Pueden escribirme por Facebook para adquirirlo: https://www.facebook.com/jonatan.polanco.94/)
 - Ableton Live 10 lite (Pueden descargarlo desde aquí: https://www.ableton.com/en/products/live-lite/) ** Yo uso el ableton live por que es el que me permite asignarle el tap tempo al controlador
 
+## Software necesario (En los archivos adjuntos los pueden descargar):
+- Programa LoopMidi (Se encarga de crear el puerto virtual midi)
+- Proframa Hairless midiserial (Enlaza nuestra pedalera con el puerto virtual midi)
+- Software de Arduino IDE : https://www.arduino.cc/en/software (De aquí lo descargan según su sistema operativo)
 ## Hardware necesario (dejo algunas páginas sólo como referencia):
 - 1 Microcontrolador Arduino nano : https://www.amazon.com/Elegoo-placa-ATmega328P-compatible-Arduino/dp/B0713XK923/ref=sr_1_1_sspa?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=arduino+nano&qid=1630649378&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzTVlMRjUyQTM2STg4JmVuY3J5cHRlZElkPUEwOTMyNjI5N0lFTDNJVkNFU0Q2JmVuY3J5cHRlZEFkSWQ9QTA2NjkyODkxN1hJSjdRU1JQNlpVJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
 - Foot's switch 3pdt (depende de cuantos pulsadores quieran en su controlador): https://www.amazon.com/ESUPPORT-3PDT-Interruptor-dise%C3%B1o-guitarra/dp/B012CF181K/ref=sr_1_1_sspa?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1FBF06V02KIEL&dchild=1&keywords=3pdt+foot+switch&qid=1630649627&sprefix=3pdt+%2Caps%2C229&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzNVVXVlc1RDg2TVU4JmVuY3J5cHRlZElkPUEwOTk5MTAxWEZNOFM2T1RXNFNPJmVuY3J5cHRlZEFkSWQ9QTAwNDk2NzdKMk1HWUZJME9WSkomd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl
