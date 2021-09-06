@@ -14,6 +14,6 @@ Arduino nano controller for Helix Native plug-in
 - 20 Jumpers (Aprox) macho-macho para hacer las conexiones: https://www.amazon.com/-/es/cables-multicolor-alambre-tableros-arruinar/dp/B01EV47GI4/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=male%2Bjumpers&qid=1630652544&sr=8-1&th=1
 - Diodos led's para indicar encendido/apagado (1 por cáda preset que quieran asignar. Y del color que quieran): https://www.amazon.com/-/es/circuito-experimentos-proyectos-cient%C3%ADficos-multicolor/dp/B07PG84V17/ref=sr_1_3?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2GCDSQOHYH4LU&dchild=1&keywords=led+diodes&qid=1630653557&sprefix=leds+diod%2Caps%2C217&sr=8-3
 
-#Instrucciones
+# Instrucciones
 ![image](https://user-images.githubusercontent.com/65262178/132110204-f72a70df-a6de-4b71-a717-8ae2a3ba9a49.png)
 
